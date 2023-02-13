@@ -20,5 +20,8 @@
   "homepage": "https://github.com/basir/mern-amazona#readme",
   "dependencies": {
     "algoliasearch": "^4.14.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
